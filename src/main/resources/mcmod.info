@@ -1,0 +1,16 @@
+[
+{
+  "modid": "abyssbeta",
+  "name": "Abyss Beta Enforcer",
+  "description": "Forces your Abyss client copy to be beta",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "https://github.com/PlutoSolutions",
+  "updateUrl": "",
+  "authorList": ["mrnv/ayywareseller", "maywr"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
