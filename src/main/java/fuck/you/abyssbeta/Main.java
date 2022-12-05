@@ -28,7 +28,7 @@ public class Main
     {
         logger = LogManager.getLogger( NAME );
 
-        logger.info( String.format( "%s by mrnv/ayywareseller (github.com/PlutoSolutions)", NAME ) );
+        logger.info( "{} by mrnv/ayywareseller (github.com/PlutoSolutions)", NAME );
 
         try
         {
