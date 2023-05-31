@@ -20,6 +20,6 @@ This mod, when combined with Abyss Client™, adds some new modules to it like S
 
 </div>
 
-+ Ciruu, cout970 and some other faggot - being DUMB
++ Ciruu, cout970 and some other guy - creating Abyss
 + [maywr](https://github.com/maywr) - decrypting classes
 + [mrnv](https://github.com/mr-nv) - making this mod
